@@ -1,4 +1,6 @@
 {
   "theme": "dark",
-  "user_agent": "Windows: Chrome"
+  "user_agent": "Windows: Chrome",
+  "search_engine": "Google",
+  "auto_delete_cookies": false
 }
